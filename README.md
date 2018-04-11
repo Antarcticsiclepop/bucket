@@ -5,7 +5,7 @@ Tip: Press 'ENTER' to play the animation when sorting (Option #4), press 'N' to 
 
 # Executing
 
-To execute the game simply double click the 'bucket.lnk' shortcut in the root folder, DOSBOX will take care of things.
+To execute the program launch 'bucket.bat' from the root folder, DOSBOX will take care of things.
 
 # Source File
 
