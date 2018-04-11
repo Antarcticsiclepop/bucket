@@ -1,19 +1,3 @@
-/*  Universidad Autónoma de Baja California
-    Facultad de Ciencias Químicas e Ingeniería
-
-    Laboratorio de Algoritmos y Estructuras de Datos
-
-    Profesora:  Leticia Palacios
-    Tema:       BUCKET SORT
-
-    Hecho por:  Carpintero Carrillo Jaime
-		Quintero Flores Ma. Esmeralda
-		Salazar Madrigal Erik Stephan
-
-    Grupo:      551
-    Fecha:      17/11/14
-*/
-
 #include <graphics.h>
 #include <time.h>
 #include <string.h>
