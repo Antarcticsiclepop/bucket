@@ -1,6 +1,6 @@
-# Fruition Labyrinth Game (Borland C++)
+# Bucket Sort Animation (Borland C++)
 
-This is a class project I made in 2003 using only the graphing tool of Turbo C.
+This is a class project I made in 2015 using only the graphing tool of Turbo C.
 It's a labyrinth game that uses elements such as switches and doors to add a twist to the difficulty, 
 which makes it a true puzzle game.
 
